@@ -43,7 +43,7 @@ In order to unify the interrupt entry of OPA, the outputs of OPA1(PA3) and OPA2(
 
 PA13 and PA14 are used to download bootloader  via WCH-LINKE. If necessary, the program can also reuse these two ports.<br>
 
-For detailed information, please refer to the [schematic diagram](https://github.com/TianpeiLee/CH32V203_ESC/docs/SCH_AM32_V203F8U6.pdf), <font color=red>**NOTE: The current schematic does not enable current sampling. If desired, simply amplify the current and connect the signal to PA6.**</font><br>
+For detailed information, please refer to the [schematic diagram](https://github.com/TianpeiLee/CH32V203_ESC/blob/main/docs/SCH_AM32_V203F8U6.pdf), <font color=red>**NOTE: The current schematic does not enable current sampling. If desired, simply amplify the current and connect the signal to PA6.**</font><br>
 
 
 ## Config
