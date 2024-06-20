@@ -109,7 +109,7 @@ This video demonstrates three different output signals of a servo testing tool.<
 
 ## Buy Me a Coffee ☕
 
- If you think it will be of great help to you, you can buy me a coffee (via [Alipay or WeChat](https://github.com/TianpeiLee/TianpeiLee/blob/master/donate.md)) thank you.
+ If you think it will be of great help to you, you can buy me a coffee (via [Alipay or WeChat](https://github.com/TianpeiLee/TianpeiLee/blob/master/donate.md) or [Paypal](https://paypal.me/TempersLee?country.x=C2&locale.x=zh_XC)) thank you.
 
 
 
