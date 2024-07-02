@@ -1,3 +1,5 @@
+# I have ported the latest AM32 version and fixed some bugs, refer to this [repository](https://github.com/TianpeiLee/AM32)
+
 # RISC-V ESC Base on CH32V203(AM32 firmware)
 
 * [Introduction](https://github.com/TianpeiLee/CH32V203_ESC#Introduction)<br>
